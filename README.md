@@ -22,8 +22,8 @@ The equivalent in usability should probably be something like:
 - [ ] Do you really need this function?
 
 
-## The List (Lets get going):
+## The list (let's get going)
 
 - [Button](./chapter/button.md)
-- [Upload File ](./chapter/upload-file.md)
+- [Upload file](./chapter/upload-file.md)
 - [Pulling data from a public API](./chapter/pulling-data-from-a-public-api.md)
